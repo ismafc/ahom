@@ -1,0 +1,133 @@
+BODY { 
+background: #327D92;
+color: black;
+font-family:  Arial, Verdana, Helvetica, helv, sans-serif;}
+
+A:link {color: #336699;text-decoration: none;font-Weight:bold;}
+A:visited {color: #336699;text-decoration: none;font-Weight:bold;}
+A:active {color: red;text-decoration: none;font-Weight:bold;}
+
+A.link2:link {color: #0000FF;text-decoration: none;font-Weight:bold;}
+A.link2:visited {color: #0000FF;text-decoration: none;font-Weight:bold;}
+A.link2:active {color: red;text-decoration: none;font-Weight:bold;}
+
+A.menu_izq:link {color: #317B8C;text-decoration: none;font-Weight:bold;}
+A.menu_izq:visited {color: #317B8C;text-decoration: none;font-Weight:bold;}
+
+A.menu_izqvoda:link {color: #FFFFFF;text-decoration: none;font-Weight:bold;}
+A.menu_izqvoda:visited {color: #FFFFFF;text-decoration: none;font-Weight:bold;}
+
+A.menu_izq:active {color: red;text-decoration: none;font-Weight:bold;}
+A.menu_izq:hover {color: #EF6363;text-decoration: none;font-Weight:bold;}
+
+A.menu_up:link {COLOR: #317B8C;TEXT-DECORATION: none;font-Weight:bold;}
+A.menu_up:visited {COLOR: #317B8C; TEXT-DECORATION: none;font-Weight:bold;}
+A.menu_up:hover {COLOR: #EF6363;TEXT-DECORATION: none;font-Weight:bold;}
+
+A.menu_upvoda:link {COLOR: #FFFFFF;TEXT-DECORATION: none;font-Weight:bold;}
+A.menu_upvoda:visited {COLOR: #FFFFFF; TEXT-DECORATION: none;font-Weight:bold;}
+A.menu_upvoda:hover {COLOR: #FFFFFF;TEXT-DECORATION: none;font-Weight:bold;}
+
+A.menu_down:link {COLOR: #002E65;TEXT-DECORATION: none;font-Weight:normal;}
+A.menu_down:visited {COLOR: #002E65; TEXT-DECORATION: none;font-Weight:normal;}
+A.menu_down:hover {COLOR: #EF6363;TEXT-DECORATION: none;font-Weight:normal;}
+
+A.menu_down_v:link {COLOR: white;TEXT-DECORATION: none;font-Weight:normal;}
+A.menu_down_v:visited {COLOR: white; TEXT-DECORATION: none;font-Weight:normal;}
+A.menu_down_v:hover {COLOR: white;TEXT-DECORATION: none;font-Weight:bold;}
+
+A.menu_left:link {COLOR: #000000;TEXT-DECORATION: none;}
+A.menu_left:visited {COLOR: #000000;TEXT-DECORATION: none;}
+A.menu_left:hover {COLOR: #FF3300;TEXT-DECORATION: none;}
+
+A.users_online:link {COLOR: #002E65; TEXT-DECORATION: none;}
+A.users_online:visited {COLOR: #002E65; TEXT-DECORATION: none;}
+A.users_online:hover {COLOR: #002E65; TEXT-DECORATION: none;}
+
+.menu {position:absolute;visibility:hidden; background-color: #C2CDE4; color: #FF0000;padding: 0px;font-size : 10px;font-Family: Tahoma,Arial,Verdana,Helvetica;}
+
+.menu A {font-Family: Tahoma,Verdana,Arial,Helvetica;text-decoration:none;color:white;font-Weight:bold;}
+.menu A:link {COLOR: #002E65;TEXT-DECORATION: none;}
+.menu A:visited {COLOR: #002E65; TEXT-DECORATION: none;}
+.menu A:hover {COLOR: #FFFFFF; TEXT-DECORATION: none;}
+
+A.usuario:link {COLOR: #C2CDE4; TEXT-DECORATION: none;}
+A.usuario:visited {COLOR: #C2CDE4; TEXT-DECORATION: none;}
+A.usuario:hover {COLOR: #C2CDE4; TEXT-DECORATION: none;}
+A.usuario:active {color: #C2CDE4; TEXT-DECORATION: none;}
+
+A.footer:link {font-family: Verdana, Arial Helvetica, helv, sans-serif;COLOR: #002E65;TEXT-DECORATION: none;font-size: 9px;}
+A.footer:visited {font-family: Verdana, Arial Helvetica, helv, sans-serif;COLOR: #002E65;TEXT-DECORATION: none;font-size: 9px;}
+A.footer:hover {font-family: Verdana, Arial Helvetica, helv, sans-serif;COLOR: #002E65;TEXT-DECORATION: none;font-size: 9px;}
+A.footer:active {font-family: Verdana, Arial Helvetica, helv, sans-serif;COLOR: #002E65;TEXT-DECORATION: none;font-size: 9px;}
+
+A.barra:link {COLOR: #336699;TEXT-DECORATION: none;font-size: 9pt;font-Weight:normal;}
+A.barra:visited {COLOR: #336699; TEXT-DECORATION: none;font-size: 9pt;font-Weight:normal;}
+A.barra:hover {COLOR: #336699; TEXT-DECORATION: none;font-size: 9pt;font-Weight:normal;}
+A.barra:active {color: #336699; TEXT-DECORATION: none;font-size: 9pt;font-Weight:normal;}
+
+A.marquee:link {COLOR: #FFFFFF;TEXT-DECORATION: underline; font-Weight:bold;}
+A.marquee:visited {COLOR: #FFFFFF; TEXT-DECORATION: underline; font-Weight:bold;}
+A.marquee:hover {COLOR: #FFFFFF; TEXT-DECORATION: underline; font-Weight:bold;}
+A.marquee:active {color: #FFFFFF; TEXT-DECORATION: underline; font-Weight:bold;}
+
+.forolinks A {COLOR: #336699;TEXT-DECORATION: none;} 
+.forolinks A:visited {COLOR: #757575; TEXT-DECORATION: none;}
+.foroannoun {background-color:#FFFFCC;}
+.foroannoun A {COLOR: #336699;TEXT-DECORATION: none;font-Family: Tahoma,Verdana,Arial,Helvetica;font-size: 8pt;font-Weight:bold;}
+.foroannoun A:visited {COLOR: #757575; TEXT-DECORATION: none;font-Family: Tahoma,Verdana,Arial,Helvetica;font-size: 8pt;font-Weight:bold;}
+.foroannoun2 {background-color: #E2FFE4;}
+.foroannoun2 A {COLOR: #0000FF;TEXT-DECORATION: none;}
+.foroannoun2 A:visited {COLOR: #0000FF; TEXT-DECORATION: none;}
+.foroannoun3 {background-color: #FFFFFF;}
+.foroannoun3 A {COLOR: #336699;TEXT-DECORATION: none;}
+.foroannoun3 A:visited {COLOR: #757575; TEXT-DECORATION: none;}
+.nav {font-family: Arial, Verdana, Helvetica, helv, sans-serif;font-size: 8pt;}
+.f1 {font-family: Verdana, Arial Helvetica, helv, sans-serif;font-size: 9px;}
+.f1b {font-family: Verdana, Arial Helvetica, helv, sans-serif;font-size: 10px;font-Weight:bold;}
+.f1w {font-family: Verdana, Arial Helvetica, helv, sans-serif;font-size: 10px;color: #FFFFFF;}
+.f1wb {font-family: Verdana, Arial Helvetica, helv, sans-serif;font-size: 10px;color: #FFFFFF;font-Weight:bold;}
+.main {font-family: Arial, Verdana, Helvetica, helv, sans-serif;font-size: 12px;}
+.arialpeque {font-family: Arial, Verdana, Helvetica, helv;font-size: 10px;}
+.novedades {font-family: Verdana, Helvetica, helv;font-size: 8px;}
+.verdanapeque {font-family: Verdana, Helvetica, helv;font-size: 7.2pt}
+.news {font-family: Arial, Verdana, Helvetica, helv, sans-serif;font-size: 12px;font-Weight:bold;}
+.news_fecha {font-family: Verdana, Arial Helvetica, helv, sans-serif;font-size: 10px;}
+.news_img {border-left-color:#C2CDE4;border-bottom-color:#C2CDE4;border-top-color:#C2CDE4;border-right-color:#C2CDE4}
+.tit_cajas {font-family: Verdana, Arial Helvetica, helv, sans-serif;font-size: 12px; font-Weight:bold; font-style:italic;}
+.cajas {font-family: Arial, Verdana, Helvetica, helv, sans-serif;font-size: 12px;}
+.flash {font-family: Verdana, Arial Helvetica, helv, sans-serif;font-size: 10px;}
+.glosario {font-family: Verdana, Arial Helvetica, helv, sans-serif;font-size: 10px;}
+.menu_izq {font-family: Arial,Helvetica;font-size: 11px;font-Weight:bold;color: #317B8C;}
+.menu_up {font-family: Arial, Helvetica;font-size: 11px;}
+.menu_down {font-family: Arial,Helvetica;font-size: 12px;}
+.menu_left {font-family: Arial,Helvetica;font-size: 9px;}
+.def {color: #007000;border-bottom: 1px dashed gray; cursor: pointer;}
+.tono {color: #FF8080;border-bottom: 1px dashed gray; cursor: pointer;}
+.juego {color: #FF8080;border-bottom: 1px dashed gray; cursor: pointer;}
+.tabla_borde {font-family: Arial, Verdana, Helvetica, helv, sans-serif;font-size: 12px;border-color: black;border-style:solid;}
+.tabla_borde TD {font-family: Arial, Verdana, Helvetica, helv, sans-serif;font-size: 12px;border-color: black;border-style:solid;}
+.nubes_foro {border-width: 1px;border-right-width: 0px;border-style: solid;border-color: #C2CDE4;font-family: Verdana, Arial Helvetica, helv, sans-serif;padding: 3px;}
+.nubes_foro A {color:#336699;TEXT-DECORATION: none;}
+.nubes_foro A.visted {color:#336699;TEXT-DECORATION: none;}
+.tablafina {font-family: Arial, Verdana, Helvetica, helv, sans-serif;font-size: 12px;border-style: solid;border-width: 1px;border-color: #ECF1F5;}
+.tablafina_titulo {background-color: #ECF1F5; font-size: 12px; color:#6196A6; font-weight: bold;padding-left:5px;padding-top:0px;padding-right:0px;padding-bottom:0px;}
+
+.tc_titulo {font-family: Verdana, Arial Helvetica, helv, sans-serif;font-size: 12px; font-Weight:bold;}
+.tc_titulo_peq {font-family: Verdana, Arial Helvetica, helv, sans-serif;font-size: 10px; font-Weight:bold;}
+.tc_texto {font-family: Verdana, Arial Helvetica, helv, sans-serif;font-size: 12px;}
+
+.gal_title {background-color: #4D6D93; font-family: Verdana, Arial Helvetica, helv, sans-serif;font-size: 10px; color:#C2CDE4; font-weight: bold}
+.gal_con_osc {background-color: #C2CDE4; font-family: Verdana, Arial Helvetica, helv, sans-serif;font-size: 10px; color:#002E65; font-weight: bold}
+.gal_con_cla {background-color: #E1E8F5; font-family: Verdana, Arial Helvetica, helv, sans-serif;font-size: 10px; color:#002E65; font-weight: bold}
+
+.carac    {font-family:Arial, Arial Helvetica, helv, sans-serif; font-size: 10px;}
+
+.combo_calif {font-size: 9px; width:100px; font-Weight:bold;}
+
+fieldset { padding-right:0; }
+
+A.yacom:link {COLOR: #B2CED7;TEXT-DECORATION: none; font-Weight:bold;}
+A.yacom:visited {COLOR: #B2CED7; TEXT-DECORATION: none; font-Weight:bold;}
+A.yacom:hover {COLOR: #B2CED7; TEXT-DECORATION: none; font-Weight:bold;}
+A.yacom:active {color: #B2CED7; TEXT-DECORATION: none; font-Weight:bold;}

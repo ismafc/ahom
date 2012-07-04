@@ -1,0 +1,23 @@
+@import "basics.css";
+
+/* =================================
+1. Secciones DIV
+====================================*/
+
+#pie {
+    font-size: 10px;
+    text-align: right;
+    padding-top: 5px;
+    clear: both;
+}
+
+#pie table {
+    vertical-align: middle;
+    border: none;
+    border-collapse: collapse;
+}
+
+#pie table td, th {
+    margin: 0px;
+    padding: 0px;
+}

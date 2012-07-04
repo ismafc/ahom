@@ -1,0 +1,61 @@
+@import "basics.css";
+
+/* =================================
+1. Secciones DIV
+====================================*/
+ 
+
+#contenido {
+margin-left:auto;
+margin-right:auto;
+width:600px;
+height:458px;
+}
+
+#contenido td{
+color:#053A7F;
+font-size:11px;
+font:Verdana, Arial, Helvetica, sans-serif;
+text-align:justify;
+
+}
+
+
+#contenido a {
+font-weight:bold;
+color:#000000;
+}
+
+#contenido a:hover, a:focus {text-decoration:none;
+color:#880201;}
+
+
+/*=================================
+3.Elementos HTML generales
+==================================*/
+
+h1 {font-size: 270%;
+font-style:italic;
+font-weight:bold;}
+
+h2 {font-size: 120%;
+margin-bottom: 1em;}
+
+a:link {color:#000000;}
+a:visited {color:#cc6666;}
+a:hover, a:focus {text-decoration:none;
+color:#880201;}
+a:active {color:#FFFFFF;}
+
+p,ul {
+margin-top:0;
+margin-right:0;
+margin-bottom:1em;
+margin-left:0;}
+
+
+table {
+vertical-align:middle;
+text-align:left;
+}
+

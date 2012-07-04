@@ -1,0 +1,107 @@
+@import "basics.css";
+
+/* =================================
+1. Secciones DIV
+====================================*/
+
+#barra_derecha table {
+    vertical-align: middle;
+    text-align: left;
+    width: 204px;
+    border: none;
+    border-collapse: collapse;
+}
+
+#barra_derecha table td, th {
+    margin: 0px;
+    padding: 0px;
+}
+
+#barra_derecha_tabla_estadisticas {
+    font-size: 10px;
+    color: #0071BC;
+}
+
+#barra_derecha_tabla_estadisticas tr {
+    height:20px;
+}
+
+#barra_derecha_tabla_estadisticas td a {
+    color: #0066cc;
+    font-weight: bold;
+}
+
+#barra_derecha_tabla_estadisticas td a:hover, a:focus {
+    color: #003366;
+    font-weight: bold;
+}
+
+.td_left_est {
+    width: 3px;
+}
+
+.td_izquierda_est {
+    background-color:#D7E9F5;
+    width:142px;
+}
+
+.td_derecha_est {
+    background-color: #D7E9F5;
+    width: 54px;
+}
+
+.td_right_est {
+    width: 5px;
+}
+
+.td_last_est {
+    background-color: #D7E9F5;
+    text-align: right;
+}
+
+#vertical_div {
+    height: 5px;
+}
+
+#barra_derecha_tabla_secciones tr {
+    height: 18px;
+}
+
+#barra_derecha_tabla_secciones td a {
+    text-align: center;
+    font-weight: bold;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    color: #646562;
+}
+
+#barra_derecha_tabla_secciones td a:hover, a:focus {
+    color: #880201;
+}
+
+#barra_derecha_tabla_operadores td {
+    text-align: center;
+}
+
+#barra_derecha_tabla_operadores td a {
+    font-weight: bold;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    color: #0071BC;
+}
+
+#barra_derecha_tabla_operadores td a:hover, a:focus {
+    color: #004573;
+}
+
+.td_center_ope {
+    background-color: #D7E9F5;
+    width: 196px;
+}
+
+
+/*=================================
+3.Elementos HTML generales
+==================================*/
+
+img {
+    vertical-align: top;
+}

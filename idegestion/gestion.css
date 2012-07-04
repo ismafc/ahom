@@ -1,0 +1,177 @@
+* {padding:0; margin:0;}
+
+body {
+	background-color: #FFFFFF;
+	text-align:center;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	/*line-height: 24px;*/
+	color: #000000;
+}
+
+/* =================================
+1. Secciones DIV
+====================================*/
+
+#wrapper {
+
+color: #000000;
+text-align:left;
+background-color: #FFFFFF;
+width:990px;
+margin-left:auto;
+margin-right:auto;
+}
+ 
+
+
+#encabezado {
+color:#000000;
+height:117;
+background-color:#FFFFFF;
+position:relative;
+padding-top:0px;
+padding-right:0px;
+padding-bottom:7px;
+padding-left:0px;
+font-size:10px;
+font-weight:bold;
+text-align:right;
+color:#549DD4
+
+}
+
+
+#encabezado img {
+border:none;
+}
+
+
+
+#menu {
+float:left;
+background-repeat:no-repeat;
+background-color:#FFDBCA;
+width:150px;
+height:210px;
+padding-top:10px;
+padding-left:8px;
+padding-right:7px;
+}
+
+#menu td {
+font-weight:bold;
+font:Verdana, Arial, Helvetica, sans-serif;
+color:#646562;
+text-align:center;
+}
+
+#menu td a{
+font-weight:bold;
+font:Verdana, Arial, Helvetica, sans-serif;
+color:#8E0000;
+text-align:center;
+}
+
+#menu a:hover, a:focus {text-decoration:none;
+color:#880201;}
+
+#contenido {
+float:right;
+background-color:#E6FFFF;
+width:800px;
+padding-top:10px;
+padding-bottom:20px;
+padding-left:8px;
+padding-right:7px;
+}
+
+
+#contenido td {
+font-weight:bold;
+font:Verdana, Arial, Helvetica, sans-serif;
+color:#646562;
+text-align:center;
+}
+
+#contenido td a{
+font-weight:bold;
+font:Verdana, Arial, Helvetica, sans-serif;
+color:#8E0000;
+text-align:center;
+}
+
+#contenido a:hover, a:focus {text-decoration:none;
+color:#880201;}
+
+
+
+#pie {
+font-size:10px;
+text-align:right;
+padding-top:5px;
+clear:both;
+}
+#pie img {
+border:none;
+}
+
+#pie a{
+color:#8c8c8c;
+font-size:10px;
+}
+
+#pie a:hover{
+color:#FF7F00;
+text-decoration:none;
+}
+
+#pie a:active{
+background-color:#FFFFFF;
+}
+
+
+/*===============================
+2. Classes
+=================================*/
+
+.botonPequeno {
+color:#101010;
+font-size:9px;
+}
+
+
+
+/*=================================
+3.Elementos HTML generales
+==================================*/
+
+h1 {font-size: 270%;
+font-style:italic;
+font-weight:bold;}
+
+h2 {font-size: 120%;
+margin-bottom: 1em;}
+
+a {
+	text-decoration:none;
+	}
+
+a:link {color:#000000;}
+a:visited {color:#cc6666;}
+a:hover, a:focus {text-decoration:underline;
+color:#FF7F00;}
+a:active {color:#FFFFFF;}
+
+p,ul {
+margin-top:0;
+margin-right:0;
+margin-bottom:1em;
+margin-left:0;}
+
+
+table {
+vertical-align:middle;
+text-align:left;
+}
+

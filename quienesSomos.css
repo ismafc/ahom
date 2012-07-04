@@ -1,0 +1,216 @@
+@import "basics.css";
+
+/* =================================
+1. Secciones DIV
+====================================*/
+
+#wrapper {
+
+color: #000000;
+text-align:left;
+background-color: #FFFFFF;
+width:779px;
+margin-left:auto;
+margin-right:auto;
+}
+ 
+
+
+#encabezado {
+color:#000000;
+height:141px;
+width:778px;
+background-color:#FFFFFF;
+position:relative;
+padding-top:0px;
+padding-right:0px;
+padding-bottom:7px;
+padding-left:0px;
+font-size:10px;
+font-weight:bold;
+text-align:right;
+color:#549DD4
+
+}
+
+#fecha {
+text-align:right;
+padding-right:5px;
+position:absolute; right:0px; top:0px; width:220px; height: 15px;
+color:#FFFFFF;
+font-weight:bold;
+}
+
+
+
+
+#encabezado img {
+border:none;
+}
+
+
+
+#login {
+float:left;
+background-repeat:no-repeat;
+background-image:url(imagenesmastreces/navegacioni/fondo.gif);
+width:152px;
+}
+
+#login td {
+font-weight:bold;
+font:Verdana, Arial, Helvetica, sans-serif;
+color:#646562;
+text-align:center;
+}
+
+#login input {
+width:106px;
+height:18px;
+font-size:12px;
+font:Verdana, Arial, Helvetica, sans-serif;
+color:#646562;
+text-align:center;
+vertical-align:middle;
+
+}
+
+#login input#Entrar {
+background:#fff url(imagenesmastreces/navegacioni/boton.gif) repeat-x;
+border:none;
+height:26px;
+width:103px;
+cursor:pointer;
+}
+
+#login p {
+color:#053A7F;
+font-weight:normal;
+}
+
+#login p span {
+font-weight:bold;
+}
+
+#login a:hover, a:focus {text-decoration:none;
+color:#880201;}
+
+
+
+#areaTexto {
+padding-top:0px;
+padding-right: 0px;
+padding-bottom: 0px;
+padding-left: 0px;
+float:right;
+width:627px;
+}
+
+#contenido {
+width:378px;
+height:450px;
+padding-top:50px;
+padding-left:20px;
+padding-right:20px;
+float:left;
+border-left: 2px solid #999999;
+border-right: 2px solid #999999;
+color:#053A7F;
+font-size:12px;
+font:Verdana, Arial, Helvetica, sans-serif;
+text-align:justify;
+background-image:url(imagenesmastreces/contenido/fondoQuienesSomos.gif);
+background-repeat:no-repeat;
+}
+
+
+#contenido span {
+color:#EA0000;}
+
+#contenido td a {
+text-align:center;
+font-weight:bold;
+font:Verdana, Arial, Helvetica, sans-serif;
+color:#FFFFFF;
+
+}
+
+#contenido td a:hover, a:focus {text-decoration:none;
+color:#880201;}
+
+
+#contenido img {
+border:none;
+}
+
+
+#textoContenido a {
+color:#646562;
+font-weight:bold;
+}
+
+#pie {
+font-size:10px;
+text-align:right;
+padding-top:5px;
+clear:both;
+}
+#pie img {
+border:none;
+}
+
+#pie a{
+color:#8c8c8c;
+font-size:10px;
+}
+
+#pie a:hover{
+color:#FF7F00;
+text-decoration:none;
+}
+
+#pie a:active{
+background-color:#FFFFFF;
+}
+
+
+/*===============================
+2. Classes
+=================================*/
+
+.botonPequeno {
+color:#101010;
+font-size:9px;
+}
+
+
+
+/*=================================
+3.Elementos HTML generales
+==================================*/
+
+h1 {font-size: 270%;
+font-style:italic;
+font-weight:bold;}
+
+h2 {font-size: 120%;
+margin-bottom: 1em;}
+
+a:link {color:#000000;}
+a:visited {color:#cc6666;}
+a:hover, a:focus {text-decoration:underline;
+color:#FF7F00;}
+a:active {color:#FFFFFF;}
+
+p,ul {
+margin-top:0;
+margin-right:0;
+margin-bottom:1em;
+margin-left:0;}
+
+
+table {
+vertical-align:middle;
+text-align:left;
+}
+

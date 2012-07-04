@@ -1,0 +1,41 @@
+body {
+    margin:0px;
+    padding:0px;
+}
+
+.titulo {
+	font-family: Arial;
+	font-weight:bold;
+	font-size:13px;
+        color:#000000;
+}
+.textbox {
+	font-family: Arial;
+	border-color:#5794BF #3C7FB1 #C7E2F1 #C7E2F1;
+	border-style:solid;
+	border-width:1px;
+	background-color:#FFFEE6;
+	color:#676760;
+	width:200px;
+}
+.textbox-small {
+	font-family: Arial;
+	border-color:#5794BF #3C7FB1 #C7E2F1 #C7E2F1;
+	border-style:solid;
+	border-width:1px;
+	background-color:#FFFEE6;
+	color:#676760;
+	width:50px;
+}
+
+.texto {
+	font-family: Arial;
+	font-size:12px;
+	color:#676760;
+}
+td.texto {
+	font-family: Arial;
+	font-size:12px;
+	color:#676760;
+	vertical-align: middle;
+}

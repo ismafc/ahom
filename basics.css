@@ -1,0 +1,55 @@
+/* =================================
+1. Secciones DIV
+====================================*/
+
+#iframe_estadisticas {
+    height: 500px;
+    width: 204px;
+}
+
+#div_estadisticas {
+    float: right;
+    width: 204px;
+    padding-left: 0px;
+}
+
+#iframe_pie {
+    height: 55px;
+    width: 778px;
+}
+
+/*===============================
+2. Classes
+=================================*/
+
+.actualizando {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #D8354B;
+    font-weight: bold;
+}
+
+/*=================================
+3.Elementos HTML generales
+==================================*/
+
+* {
+    padding: 0; 
+    margin: 0;
+}
+
+body {
+    background-color: #FFFFFF;
+    text-align: center;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #000000;
+}
+
+a {
+    text-decoration:none;
+}
+
+img {
+    border: none;
+}

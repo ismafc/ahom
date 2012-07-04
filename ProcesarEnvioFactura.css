@@ -1,0 +1,182 @@
+@import "basics.css";
+
+/* =================================
+1. Secciones DIV
+====================================*/
+
+#wrapper {
+
+color: #053A7F;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+text-align:center;
+background-color: #FFFFFF;
+width:779px;
+margin-left:auto;
+margin-right:auto;
+z-index:1;
+visibility: visible;
+}
+ 
+#wrapper td{
+color: #053A7F;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+text-align:center;
+background-color: #FFFFFF;
+}
+
+#wrapper img {
+border:none;
+}
+
+
+#encabezado {
+color:#000000;
+height:117px;
+width:778px;
+background-color:#FFFFFF;
+position:relative;
+padding-top:0px;
+padding-right:0px;
+padding-bottom:7px;
+padding-left:0px;
+font-size:10px;
+font-weight:bold;
+text-align:right;
+color:#549DD4
+
+}
+
+#wrapper input#Submit22 {
+background:#fff url(imagenesmastreces/contenido/botonEscogerTelefonos.gif) repeat-x;
+border:none;
+height:27px;
+width:132px;
+cursor:pointer;
+}
+
+
+#wrapper input#Submit2 {
+background:#fff url(imagenesmastreces/contenido/botonDudososEnviar.gif) repeat-x;
+border:none;
+height:27px;
+width:132px;
+cursor:pointer;
+}
+
+#wrapper input#reset {
+background:#fff url(imagenesmastreces/contenido/botonDudososBorrar.gif) repeat-x;
+border:none;
+height:27px;
+width:132px;
+cursor:pointer;
+}
+
+#botonDetallados input#Ver {
+background:#fff url(imagenesmastreces/contenido/botonInformeDetallado.gif) repeat-x;
+border:none;
+height:33px;
+width:266px;
+cursor:pointer;
+}
+
+#espera {
+	position:absolute; 
+	top:0px; 
+	left:0px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	background-color: #FFFFFF;
+	width:100%;
+	visibility:hidden;
+}
+
+#Porcentaje {
+font-size:12px;
+color: #880201;
+}
+
+
+
+#Movistar {
+width:418px;
+height:104px;
+background-image:url(imagenesmastreces/contenido/movistar.gif);
+}
+
+#Vodafone {
+position:relative; top: 5px;
+width:418px;
+height:104px;
+background-image:url(imagenesmastreces/contenido/vodafone.gif);
+}
+
+#Orange {
+position:relative; top: 8px;
+width:418px;
+height:104px;
+background-image:url(imagenesmastreces/contenido/orange.gif);
+}
+
+#textoContenido a {
+color:#646562;
+font-weight:bold;
+}
+
+#pie {
+
+color: #646562;
+text-align: center;
+background-color: #FFFFFF;
+width:779px;
+}
+ 
+#pie a {
+color:#000000;
+}
+
+
+
+#pie a:hover, a:focus {text-decoration:none;
+color:#880201;}
+
+
+/*===============================
+2. Classes
+=================================*/
+
+.botonPequeno {
+color:#101010;
+font-size:9px;
+}
+
+
+
+/*=================================
+3.Elementos HTML generales
+==================================*/
+
+h1 {font-size: 270%;
+font-style:italic;
+font-weight:bold;}
+
+h2 {font-size: 120%;
+margin-bottom: 1em;}
+
+a:link {color:#000000;}
+a:visited {color:#cc6666;}
+a:hover, a:focus {text-decoration:underline;
+color:#FF7F00;}
+a:active {color:#FFFFFF;}
+
+p,ul {
+margin-top:0;
+margin-right:0;
+margin-bottom:1em;
+margin-left:0;}
+
+
+table {
+vertical-align:middle;
+text-align:left;
+}
